@@ -1,0 +1,25 @@
+.brand{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: blueviolet;
+}
+
+.carrito{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+}
+
+.carrito img{
+    border-radius: 20%;
+    width: 60px;
+}
+
+.carrito p{
+    margin-left: 10px;
+}
