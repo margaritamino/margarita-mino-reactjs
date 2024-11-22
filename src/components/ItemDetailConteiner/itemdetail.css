@@ -20,5 +20,22 @@ margin: 2%;
 .detail-descr{
     width: 60%;
     margin-top: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 20px;
+}
+.Button-end{
+width: 150px;
+text-align:end;
+padding: 3px ;
+margin-top: 50px;
+background-color: rgb(115, 13, 100);
+border: 1px solid white;
+border-radius: 5px;
+color: white;
+}
+
+.detail-prec{
+    font-style: italic;
+  padding: 10px 0;
+  font-size: 20px;
+ 
 }

@@ -1,0 +1,35 @@
+.item-conten{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .item-conten .item-selec{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 7px 0;
+  }
+
+  .item-selec button{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(106, 12, 109);
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+  }
+  .button-add{
+    padding: 10px 0;
+    background-color: rgb(115, 16, 103);
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+  }
+
+  .button-end{
+    border: 1px solid #2ECC71;
+    color: #2ECC71;
+    cursor: pointer;
+
+  }
